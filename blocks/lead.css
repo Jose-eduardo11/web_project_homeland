@@ -1,0 +1,28 @@
+.lead {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 984px;
+  margin: auto;
+}
+
+.lead__title {
+  margin: 0;
+  margin-bottom: 32px;
+  max-width: 720px;
+  font-size: 96px;
+  text-align: center;
+}
+.lead__subtitle {
+  margin: 0;
+  margin-bottom: 64px;
+  max-width: 720px;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+}
+.lead__image {
+  margin-bottom: 92px;
+  width: 100%;
+  height: 615px;
+}
